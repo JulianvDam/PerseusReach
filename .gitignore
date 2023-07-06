@@ -1,0 +1,47 @@
+﻿# Compiled files
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# NuGet packages
+*.nupkg
+*.paket/
+paket-files/
+paket.lock
+project.lock.json
+packages/
+*.idea/
+.vscode/
+*.csproj.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.h5
+
+# Miscellaneous
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp

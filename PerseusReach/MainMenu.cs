@@ -41,11 +41,11 @@ public class MainMenu
     public static void Credits()
     {
         Console.Clear();
-        Console.WriteLine("Programmed by - Julian van Dam  (https://www.linkedin.com/in/julian-van-dam/)");
-        Console.WriteLine("Story by - Julian van Dam  (https://www.linkedin.com/in/julian-van-dam/)");
-        Console.WriteLine("Tested by - Julian van Dam  (https://www.linkedin.com/in/julian-van-dam/)");
-        Console.WriteLine("Main Menu Art by 'fsymbols.com' - 'https://fsymbols.com/generators/carty/'");
-        Console.WriteLine("\nPress any key to return to the main menu...");
+        Console.WriteLine("[~] Programmed by - Julian van Dam  (https://www.linkedin.com/in/julian-van-dam/)");
+        Console.WriteLine("[~] Story by - Julian van Dam  (https://www.julianvandam.nl)");
+        Console.WriteLine("[~] Tested by - Julian van Dam  (https://github.com/JulianvDam)");
+        Console.WriteLine("[~] Main Menu Art by 'fsymbols.com' - 'https://fsymbols.com/generators/carty/'");
+        Console.WriteLine("[!] \nPress any key to return to the main menu...");
         ReadKey(true);
         RunMainMenu();
     }
