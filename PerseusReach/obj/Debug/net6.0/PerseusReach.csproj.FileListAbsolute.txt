@@ -1,0 +1,15 @@
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\bin\Debug\net6.0\PerseusReach.exe
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\bin\Debug\net6.0\PerseusReach.deps.json
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\bin\Debug\net6.0\PerseusReach.runtimeconfig.json
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\bin\Debug\net6.0\PerseusReach.dll
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\bin\Debug\net6.0\PerseusReach.pdb
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\PerseusReach.csproj.AssemblyReference.cache
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\PerseusReach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\PerseusReach.AssemblyInfoInputs.cache
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\PerseusReach.AssemblyInfo.cs
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\PerseusReach.csproj.CoreCompileInputs.cache
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\PerseusReach.dll
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\refint\PerseusReach.dll
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\PerseusReach.pdb
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\PerseusReach.genruntimeconfig.cache
+C:\Users\jdam3\RiderProjects\PerseusReach\PerseusReach\obj\Debug\net6.0\ref\PerseusReach.dll
